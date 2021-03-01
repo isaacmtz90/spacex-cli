@@ -1,4 +1,4 @@
-## PRerequisites:
+## Prerequisites:
 
 Node js, version 6 or greater
 
